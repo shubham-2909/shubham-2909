@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gandhi Shubham</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://shubham-2909.vercel.app/](https://shubham-2909.vercel.app/)
 
-- 📝 I regularly write articles on [https://my-blog-app-gamma.vercel.app/](https://my-blog-app-gamma.vercel.app/)
-
 - 📫 How to reach me **gandhishubham234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cwxLHE606PPKU_iU_MCyqflakGQeO3LW/view?pli=1](https://drive.google.com/file/d/1cwxLHE606PPKU_iU_MCyqflakGQeO3LW/view?pli=1)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1D6_oMPwDN0yFhHe5B10HaDEZxq149vHz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
